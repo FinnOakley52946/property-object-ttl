@@ -1,0 +1,7 @@
+{
+  "name": "property-object-ttl",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node --experimental-strip-types src/property-lifecycle.ts", "test": "node --experimental-strip-types src/property-lifecycle.test.ts"},
+  "dependencies": {"zod": "^3.23.8"}
+}
